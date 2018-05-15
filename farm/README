@@ -1,0 +1,18 @@
+对于已保存的文件，可以使用下面的方法进行空格和TAB的替换：
+
+
+TAB替换为空格： 
+:set ts=4
+:set expandtab
+:%retab!
+
+ 
+
+空格替换为TAB：
+:set ts=4
+:set noexpandtab
+:%retab!
+
+
+#百度地图api获取经纬度
+http://lbsyun.baidu.com/jsdemo.htm#i7_3
