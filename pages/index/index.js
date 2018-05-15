@@ -3,11 +3,11 @@
 var app = getApp()
 Page({
   data: {
-    motto: '微信小程序尝鲜，地图定位',
+    motto: '微信小程序，农场／养殖场定位',
     userInfo: {},
     appInfo:{
       logoUrl:'../../image/logo.png',
-      title:'使用微信内置地图查看API定位'
+      title:'所有农场／养殖场 地图定位'
     }
   },
   //事件处理函数

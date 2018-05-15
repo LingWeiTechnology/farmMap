@@ -25,12 +25,14 @@
       "iconPath": "image/locate.png",
       "selectedIconPath": "image/locateHL.png",
       "text": "导航"
-    },{
+    }
+    ,{
       "pagePath": "pages/logs/logs",
       "iconPath": "image/wechat.png",
       "selectedIconPath": "image/wechat.png",
-      "text": "其他项目"
-    }]
+      "text": "其他"
+    }
+    ]
   },
   "window":{
     "backgroundTextStyle":"light",

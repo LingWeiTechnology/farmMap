@@ -3,7 +3,7 @@
 import xlrd
 def read_excel():
     # 打开文件
-    workbook = xlrd.open_workbook('./farm.xlsw')
+    workbook = xlrd.open_workbook('./farm.xltx')
     # 获取所有sheet
     print workbook.sheet_names() # [u'sheet1', u'sheet2']
     #获取sheet2
